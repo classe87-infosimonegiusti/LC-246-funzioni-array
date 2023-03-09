@@ -1,0 +1,1 @@
+# LC-246-funzioni-array
